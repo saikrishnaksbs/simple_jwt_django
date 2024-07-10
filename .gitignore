@@ -1,0 +1,131 @@
+# Ignore compiled Python files
+*.py[cod]
+
+# Ignore Django's generated files
+*.egg-info
+__pycache__/
+
+# Ignore database files
+*.db
+*.sqlite3
+
+# Ignore media files
+media/
+
+# Ignore static files
+static/
+
+# Ignore virtual environment
+venv/
+
+# Ignore Django's local settings
+local_settings.py
+
+# Ignore PyCharm and other IDE-specific files
+.idea/
+.vscode/
+
+# Ignore log files
+logs/
+
+# Ignore backup files
+*.bak
+
+# Ignore temporary files
+*.tmp
+
+# Ignore OS-specific files
+.DS_Store
+.AppleDouble
+.LSOverrides
+
+# Ignore Python virtual environment
+.env/
+
+# Ignore Python package distribution files
+dist/
+build/
+*.egg
+
+# Ignore Python package distribution metadata
+*.egg-info/
+
+# Ignore Python package distribution build artifacts
+.eggs/
+
+# Ignore Python package distribution test results
+.tox/
+
+# Ignore Python package distribution coverage reports
+.coverage
+.coverage.*
+
+# Ignore Python package distribution HTML coverage reports
+htmlcov/
+
+# Ignore Python package distribution distribution archives
+*.tar.gz
+*.zip
+
+# Ignore Python package distribution distribution wheels
+*.whl
+
+# Ignore Python package distribution distribution documentation
+docs/
+
+# Ignore Python package distribution distribution test data
+tests/
+
+# Ignore Python package distribution distribution build artifacts
+.eggs/
+.eggs*
+
+# Ignore Python package distribution test results
+.tox/
+
+# Ignore Python package distribution coverage reports
+.coverage
+.coverage.*
+
+# Ignore Python package distribution HTML coverage reports
+htmlcov/
+
+# Ignore Python package distribution distribution archives
+*.tar.gz
+*.zip
+
+# Ignore Python package distribution distribution wheels
+*.whl
+
+# Ignore Python package distribution distribution documentation
+docs/
+
+# Ignore Python package distribution distribution test data
+tests/
+
+# Ignore Python package distribution distribution build artifacts
+.eggs/
+.eggs*
+
+# Ignore Python package distribution test results
+.tox/
+
+# Ignore Python package distribution coverage reports
+.coverage
+.coverage.*
+
+# Ignore Python package distribution HTML coverage reports
+htmlcov/
+
+# Ignore Python package distribution distribution archives
+*.tar.gz
+*.zip
+
+# Ignore Python package distribution distribution wheels
+*.whl
+
+# Ignore Python package distribution distribution documentation
+docs/
+
+# Ignore Python package distribution distribution test data
+tests/
